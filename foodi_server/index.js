@@ -52,7 +52,11 @@ app.use('/carts', cartRoutes);
 app.use('/users', userRoutes);
 
 app.get("/", (req, res) => {
-  res.send("Hello Foodi Client Server!");
+  res.status(200).json({
+    message: "Hello Foodi Client Server!",
+    status: "Server is running successfully ✅",
+    api: "Ready to accept requests"
+  });
 });
 
 app.listen(port, () => {
