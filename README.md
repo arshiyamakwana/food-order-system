@@ -1,3 +1,5 @@
-﻿# complete-mern-project-resources
-![complete-mern-project](/cover-image.png)
-# complete-mern-project-resources-part-5
+for client -cd foodi-client
+              npm run dev 
+for server-cd foodi-server
+	       npm start
+
