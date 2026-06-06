@@ -1,4 +1,4 @@
-# Foodi - Food Ordering Application
+<img width="1829" height="1019" alt="Screenshot 2024-03-01 192335" src="https://github.com/user-attachments/assets/9386d45c-f533-45a7-b9d4-812b3a6af1cb" /># Foodi - Food Ordering Application
 
 A full-stack food ordering web application built with React, Node.js, and MongoDB. Users can browse menu items, add them to cart, checkout, and place orders with secure payment processing.
 
@@ -241,9 +241,48 @@ This project is open source and available under the MIT License.
 
 ## Contact
 
-For questions or support, please reach out through the project repository.
+For questions or support, please reach out through the project repository.'
+
+
+images
+
+homepage 
+
+<img width="1829" height="1019" alt="Screenshot 2024-03-01 192335" src="https://github.com/user-attachments/assets/d09b0bf6-7a4d-43e8-a9dd-bb36e0b16dd2" />
+
 
 ---
+menu items
+
+<img width="1917" height="1078" alt="Screenshot 2024-03-08 105506" src="https://github.com/user-attachments/assets/53e37dab-9d82-4a01-9a0e-df7b0218c1ba" />
+
+
+--
+
+category  
+
+<img width="727" height="808" alt="image" src="https://github.com/user-attachments/assets/466f5c3a-be52-4f69-ad3f-663b1daf809c" />
+
+--
+cart
+
+<img width="1690" height="815" alt="image" src="https://github.com/user-attachments/assets/6c591231-b431-4c5f-ab51-9c3d5d094115" />
+
+--
+
+
+admin dashboard 
+
+<img width="1907" height="1071" alt="Screenshot 2024-03-08 105640" src="https://github.com/user-attachments/assets/c05d786d-afa5-4b2b-b0cd-2e5f3aad665b" />
+
+<img width="1638" height="870" alt="image" src="https://github.com/user-attachments/assets/acd2d339-f4a9-45a6-8d51-c76473595604" />
+
+<img width="1688" height="791" alt="image" src="https://github.com/user-attachments/assets/e8b639cf-7b77-404b-a389-4aa3d4b8d416" />
+
+
+
+
+
 
 Happy coding! 🍽️
 
